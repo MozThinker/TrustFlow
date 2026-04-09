@@ -1,0 +1,16 @@
+date,type,amount,category,source
+2026-04-01,inflow,450.00,Sales,Mobile Money
+2026-04-02,outflow,120.00,Supplies,Cash
+2026-04-03,inflow,300.00,Sales,Mobile Money
+2026-04-04,outflow,50.00,Transport,Cash
+2026-04-05,outflow,200.00,Rent,Bank Transfer
+2026-04-06,inflow,600.00,Sales,Mobile Money
+2026-04-07,outflow,80.00,Food,Cash
+2026-04-08,inflow,150.00,Refund,Mobile Money
+2026-04-09,outflow,30.00,Utilities,Cash
+2026-04-10,inflow,500.00,Sales,Mobile Money
+2026-04-11,outflow,100.00,Supplies,Cash
+2026-04-12,inflow,250.00,Sales,Mobile Money
+2026-04-13,outflow,40.00,Transport,Cash
+2026-04-14,inflow,700.00,Sales,Mobile Money
+2026-04-15,outflow,300.00,Stock,Bank Transfer
